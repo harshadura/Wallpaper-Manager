@@ -58,36 +58,8 @@
                         "name": "WP 4"
                     }
                 ]
-            },
-            {
-                "name": "Hits2",
-                "wallpaper": [
-                    {
-                        "author": "By Blah Blah Blah",
-                        "url": "http://www.hdwallpaper4all.com/wp-content/uploads/2014/05/Fifa-World-Cup-2014-101.jpg",
-                        "thumbUrl": "http://www.hdwallpaper4all.com/wp-content/uploads/2014/05/Fifa-World-Cup-2014-101.jpg",
-                        "name": "WP 1"
-                    },
-                    {
-                        "author": "By Blah Blah Blah",
-                        "url": "http://wallpaperpanda.com/wallpapers/5TA/oon/5TAoonLTx.jpg",
-                        "thumbUrl": "http://wallpaperpanda.com/wallpapers/5TA/oon/5TAoonLTx.jpg",
-                        "name": "WP 2"
-                    },
-                    {
-                        "author": "By Blah Blah Blah",
-                        "url": "http://hdwallpapermania.com/wp-content/uploads/2014/04/fifa-14-wallpapers-hd.jpg",
-                        "thumbUrl": "http://hdwallpapermania.com/wp-content/uploads/2014/04/fifa-14-wallpapers-hd.jpg",
-                        "name": "WP 3"
-                    },
-                    {
-                        "author": "By Blah Blah Blah",
-                        "url": "http://img.fifa.com/mm/photo/tournament/competition/02/37/66/68/2376668_big-lnd.jpg",
-                        "thumbUrl": "http://img.fifa.com/mm/photo/tournament/competition/02/37/66/68/2376668_big-lnd.jpg",
-                        "name": "WP 4"
-                    }
-                ]
             }
+ 
         ]
     }
 }
